@@ -1,0 +1,11 @@
+notes-pm-iOS-11.txt
+-------------------
+
+
+signing
+-------
+Team pierre marty
+remplacer com.artemnovichkov par fr.pierremarty dans bundle identifier
+entitlement : group.fr.pierremarty.iOS-11-by-Examples dans iOS-11-by-Examples.entitlements et dans MessagesFilter.entitlements
+
+
